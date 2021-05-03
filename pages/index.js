@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Image
-        src="/../public/profile.jpeg"
+        src="/profile.jpeg"
         alt="Taylors Profile Image"
         width="300"
         height="300"
